@@ -2,6 +2,10 @@ html {
   font-family: Roboto, sans-serif;
 }
 
+a:focus {
+  outline: 3px solid #fff;
+}
+
 .section-dark {
   background-color: #000308;
   color: #fff;
